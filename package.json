@@ -1,0 +1,23 @@
+{
+  "name": "openclaw-essentials",
+  "version": "1.0.0",
+  "description": "OpenClaw agent skills - agent builder and CLI mastery",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irangareddy/openclaw-essentials.git"
+  },
+  "keywords": [
+    "openclaw",
+    "agent",
+    "skills",
+    "cli",
+    "agent-builder"
+  ],
+  "author": "Ranga Reddy Nukala",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/irangareddy/openclaw-essentials/issues"
+  },
+  "homepage": "https://github.com/irangareddy/openclaw-essentials#readme"
+}

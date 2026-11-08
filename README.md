@@ -1,3 +1,5 @@
+> **Moved.** This repo is archived. These skills now live in [irangareddy/skills](https://github.com/irangareddy/skills) (memory-curator, openclaw-agent-builder, openclaw-cli). Install with `npx skills add irangareddy/skills`.
+
 # OpenClaw Essentials
 
 Professional OpenClaw agent skills for building agents and mastering the CLI.
